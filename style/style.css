@@ -1,0 +1,147 @@
+body{
+	background-color: rgb(255, 250, 205);
+	margin: 0;
+}
+
+
+.banner {
+	display: flex;
+	background-color: rgb(63,70,82);
+	height: 100px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: rgb(119, 136, 153);
+}
+
+.banner h1 {
+	text-align: center;
+	justify-content: center;
+	font-family: 'Rockwell', serif; 
+	font-size: 50px;
+	font-weight: bold;
+	padding-right: 300px;
+	padding-left: 450px;
+}	
+
+.navbar{
+	text-align: center;
+	justify-content: center;
+	display: flex;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'papyrus', serif; 
+	color: rgb(119, 136, 153);
+	padding-top: 20px;
+}
+.cards{
+	display: grid;
+}
+.landscape {	
+
+	justify-content: center;
+	padding-top: 10px;
+}
+
+.landscape h2 {
+	color: rgb(119, 136, 153);
+	text-align: center;
+	justify-content: center;
+	font-family: 'Rockwell', serif; 
+	font-size: 40px;
+	font-weight: bold;
+	background-color: rgb(63,70,82);
+	}
+.landscape p {
+	text-align: center;
+	font-family: 'papyrus', monospace;
+	font-size: 18px;
+	color: rgb(63,70,82);
+}
+.portrait {
+	
+	justify-content: center;
+	padding-top: 10px;
+}
+.portrait h2 {
+	color: rgb(119, 136, 153);
+	text-align: center;
+	justify-content: center;
+	font-family: 'Rockwell', serif; 
+	font-size: 40px;
+	font-weight: bold;
+
+	background-color: rgb(63,70,82);
+	}
+.portrait p {
+	text-align: center;
+	font-family: 'papyrus', monospace;
+	font-size: 18px;
+	color: rgb(63,70,82);
+}
+
+.cityscape {
+	
+	justify-content: center;
+	padding-top: 10px;
+}
+.cityscape h2 {
+	color: rgb(119, 136, 153);
+	text-align: center;
+	justify-content: center;
+	font-family: 'Rockwell', serif; 
+	font-size: 40px;
+	font-weight: bold;
+
+	background-color: rgb(63,70,82);
+	}
+.cityscape p {
+	text-align: center;
+	font-family: 'papyrus', monospace;
+	font-size: 18px;
+	color: rgb(63,70,82);
+}
+.footer {
+	justify-content: center;
+	text-align: center;
+	font-family: 'papyrus';
+	padding-top: 20px;
+}
+
+.footer h3{
+	color: rgb(119, 136, 153);
+	text-align: center;
+	justify-content: center;
+	font-family: 'Rockwell', serif; 
+	font-size: 30px;
+	font-weight: bold;	
+	height: 40px;
+	background-color: rgb(63,70,82);
+}
+.footer p {
+	text-align: center;
+	font-family: 'papyrus', monospace;
+	font-size: 18px;
+	color: rgb(63,70,82);
+	font-weight: bold;
+}
+
+.about{
+	text-align: center;
+	font-family: 'papyrus', monospace;
+	font-size: 18px;
+	color: rgb(63,70,82);	
+}
+.about h1{
+	color: rgb(119, 136, 153);
+	background-color: rgb(63,70,82);
+	height: 50px;
+	padding-bottom: 25px;
+}
+
+.home {
+	text-align: center;
+	font-family: 'papyrus', monospace;
+	font-size: 30px;
+	color: rgb(63,70,82);
+	padding-bottom: 20px;
+}
